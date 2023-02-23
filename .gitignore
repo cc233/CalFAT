@@ -1,1 +1,14 @@
-*DS_Store*
+#mac related file
+.DS_Store
+
+#ckpt
+*ckpt*
+
+#log
+*txt
+*log*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
